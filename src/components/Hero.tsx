@@ -3,7 +3,7 @@ import { AvatarCanvas } from "./AvatarCanvas";
 const Hero = () => {
 	return (
 		<section className="bg-[url('/hero-bck.jpg')] bg-center bg-no-repeat bg-cover relative w-full h-screen mx-auto">
-			<div className="sm:px-16 px-6 absolute inset-0 top-[120px] max-w-7xl mx-auto flex flex-row items-start gap-5">
+			<div className="px-6  absolute inset-0 top-[132px] max-w-7xl mx-auto gap-6">
 				{/*  message */}
 				<div>
 					<h1 className="text-white text-7xl font-extrabold">
