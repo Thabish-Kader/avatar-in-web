@@ -16,3 +16,6 @@
 ![Screenshot 2023-03-11 at 4 47 07 PM](https://user-images.githubusercontent.com/76642519/224485379-2480bcde-ebf3-4481-8671-00a3077a604f.png)
 
 ## Resources
+
+-   [Maximo](https://www.mixamo.com/)
+    -[]
