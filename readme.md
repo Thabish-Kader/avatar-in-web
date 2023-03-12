@@ -18,4 +18,4 @@
 ## Resources
 
 -   [Maximo](https://www.mixamo.com/)
-    -[]
+-   [Ready Player Me](https://readyplayer.me/)
