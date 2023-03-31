@@ -9,6 +9,9 @@
 <br/>
 <br/>
 
+## YT
+[![Bring your Avatar to the web: React Three Fiber, Blender, Ready Player Me, and Maximo](https://ytcards.demolab.com/?id=DiOt6yqmc5k&title=Bring+your+Avatar+to+the+web%3A+React+Three+Fiber%2C+Blender%2C+Ready+Player+Me%2C+and+Maximo&lang=en&timestamp=1680206405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Bring your Avatar to the web: React Three Fiber, Blender, Ready Player Me, and Maximo")](https://www.youtube.com/watch?v=DiOt6yqmc5k)
+
 ![Screenshot 2023-03-11 at 4 46 48 PM](https://user-images.githubusercontent.com/76642519/224485372-69292003-6499-4fbf-b870-e0bae08b5593.png)
 
 ![Screenshot 2023-03-11 at 4 46 58 PM](https://user-images.githubusercontent.com/76642519/224485376-4be0de6a-ebdd-4006-877a-9d4211368858.png)
